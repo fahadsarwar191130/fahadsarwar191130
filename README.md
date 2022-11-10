@@ -7,11 +7,9 @@
 
 - 👯 I’m looking to collaborate on **Data Science projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/fahadsarwar191130](https://github.com/fahadsarwar191130)
-
 - 📫 Reach me at: **fahadsarwar99@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1s2QT6_ywauPSedUMhu9sSiJlV3PaJ-Op/view?usp=sharing](https://drive.google.com/file/d/1s2QT6_ywauPSedUMhu9sSiJlV3PaJ-Op/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1s2QT6_ywauPSedUMhu9sSiJlV3PaJ-Op/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
