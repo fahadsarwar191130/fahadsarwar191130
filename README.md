@@ -11,13 +11,14 @@
 
 - 📫 Reach me at: **fahadsarwar99@gmail.com**
 
-- 📄 Here's [My Resume].[https://drive.google.com/file/d/1s2QT6_ywauPSedUMhu9sSiJlV3PaJ-Op/view?usp=sharing](https://drive.google.com/file/d/1s2QT6_ywauPSedUMhu9sSiJlV3PaJ-Op/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1s2QT6_ywauPSedUMhu9sSiJlV3PaJ-Op/view?usp=sharing](https://drive.google.com/file/d/1s2QT6_ywauPSedUMhu9sSiJlV3PaJ-Op/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/fahadsarwar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fahadsarwar_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/fahad sarwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahad sarwar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/fahad-sarwar-39512218b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fahad-sarwar-39512218b" height="30" width="40" /></a>
 <a href="https://kaggle.com/fahadsarwar99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fahadsarwar99" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/fahad.sarwar.313371/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/fahad.sarwar.313371/" height="30" width="40" /></a>
 <a href="https://instagram.com/fahadsarwar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fahadsarwar_" height="30" width="40" /></a>
 </p>
 
